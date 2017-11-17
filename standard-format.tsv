@@ -1,0 +1,10 @@
+fileType
+cruise
+Some general comments about this file on a single line, not tab-delimited
+ISO8601 timestamp	column2 notes	NA	column4 notes
+time	float	integer	Text
+NA	m/s	km	NA
+time	speed	distance	notes
+2017-05-06T19:52:57.601Z	6.0	100	foo
+2017-05-06T20:52:57.601Z	10	200	bar
+2017-05-06T21:52:57.601Z	NA	NA	NA
